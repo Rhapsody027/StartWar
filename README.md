@@ -18,8 +18,8 @@
 1. **下載或克隆此專案：**
 
    ```bash
-   git clone https://github.com/Rhapsody027/dev-setup.git
-   cd dev-setup
+   git clone https://github.com/Rhapsody027/StartWar.git
+   cd StartWar
    ```
 
 2. **執行 `install.sh` 安裝腳本：**
@@ -34,7 +34,7 @@
    - 偵測作業系統
    - 安裝常用的 CLI 工具
    - 安裝並設定 Zsh 和相關插件
-   - 設定你的 dotfiles（`.zshrc`, `.vimrc`, 等）
+   - 設定你的 dotfiles（`.zshrc`, `.tmux.conf`, 等）
    
 3. **安裝完成後**，你可以重新啟動終端機，並檢查安裝是否成功。
 
