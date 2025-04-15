@@ -18,7 +18,7 @@
 1. **下載或克隆此專案：**
 
    ```bash
-   git clone https://github.com/yourusername/dev-setup.git
+   git clone https://github.com/Rhapsody027/dev-setup.git
    cd dev-setup
    ```
 
